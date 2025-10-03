@@ -8,7 +8,7 @@
 | **C. Ukukula (Germinate)**          | **θ′ (Soil / Entropy)** — latent, seed state              | **(x,y)** raw scatter                | 1. Provenance        | **Physis** (nature, growth, arising) |
 | **P. Ukuvula (Break-through)**      | **θ (Roots / Encoding)** — sprouting, grounding           | **y(x)** form, function              | 2. Emergence         | **Arche** (origin, principle)        |
 | **B. Ukuzula (Tropism / Foraging)** | **Σ (Trunk / Gradient)** — orientation, tropisms          | **dy/dx** gradient, drift            | 3. Adaptive Foraging | **Logos** (reason, ordering pattern) |
-| **S. Ukukona (Collisions)**         | **h(t) (Branching / Agon)** — branching, pruning, stress  | **d²y/dx²** curvature, accelerations | 4. Trial, contest    | **Agon** (struggle, contest)         |
+| **S. Ukukona (Collisions)**         | **h(t) ([Branching](https://ukb-dt.github.io/f-s/) / Agon)** — branching, pruning, stress  | **d²y/dx²** curvature, accelerations | 4. Trial, contest    | **Agon** (struggle, contest)         |
 | **M. Ukubona (Fruit / Outcome)**    | **ΔS (Canopy / Ledger)** — fruit, reproduction, fragrance | **∫y dx** accumulated harvest        | 5. Outcome, reseed   | **Telos** (end, fulfillment)         |
 
 ---
