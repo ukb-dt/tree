@@ -1,6 +1,6 @@
 
 
-### **Tree Cycle: Zulu ↔ OEG ↔ Greek (Agon Ladder)**
+### **Tree Cycle: Zulu ↔ [OEG](https://ukb-dt.github.io/oeg/) ↔ Greek (Agon Ladder)**
 
 | Zulu                                | Ontology                                                  | Epistemology                         | Genealogy Stage      | Greek                                |
 | ----------------------------------- | --------------------------------------------------------- | ------------------------------------ | -------------------- | ------------------------------------ |
@@ -15,8 +15,8 @@
 This **“Agon ladder”** makes better music:
 
 * **Physis** (nature arising) → germination.
-* **Arche** (origin, first principle) → break-through.
-* **Logos** (order, orientation, ratio) → tropism/gradient.
+* **Arche** (origin, [first principle](https://en.wikipedia.org/wiki/First_principle)) → break-through.
+* **[Logos](https://en.wikipedia.org/wiki/Biology)** (order, orientation, ratio) → tropism/gradient.
 * **Agon** (struggle, contest) → collisions, pruning, branching.
 * **Telos** (end/goal) → fruit, outcome.
 
