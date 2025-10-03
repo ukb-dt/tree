@@ -1,8 +1,9 @@
-
+> *Reverse Engineering*     
+> -- Pyromancer
 
 ### **Tree Cycle: Zulu ↔ [OEG](https://ukb-dt.github.io/oeg/) ↔ Greek (Agon Ladder)**
 
-| Zulu                                | Ontology                                                  | Epistemology                         | Genealogy Stage      | Greek                                |
+| Zulu/Africa                         | Ontology/California                                       | Epistemology/Europe                  | Genealogy/Judaism    | Greek/Hellenism                                |
 | ----------------------------------- | --------------------------------------------------------- | ------------------------------------ | -------------------- | ------------------------------------ |
 | **C. Ukukula (Germinate)**          | **θ′ (Soil / Entropy)** — latent, seed state              | **(x,y)** raw scatter                | 1. Provenance        | **Physis** (nature, growth, arising) |
 | **P. Ukuvula (Break-through)**      | **θ (Roots / Encoding)** — sprouting, grounding           | **y(x)** form, function              | 2. Emergence         | **Arche** (origin, principle)        |
