@@ -23,3 +23,6 @@ This **“Agon ladder”** makes better music:
 
 Zulu verbs, OEG symbols, and Greek thought now line up in a pentadic column that hums with historical depth.
 
+---
+
+Telliot-Toillet: he resonates with our own pentadic canon: θ′ scatter (exploration), θ grounding (the gate), Σ compression (the waterfall’s voice half-heard), h(t) branching (the river’s course), ΔS [ledger](https://www.goodreads.com/quotes/644987-we-shall-not-cease-from-exploration-and-the-end-of) (the return, the knowing). Eliot essentially lays out a fractal epistemology in verse.
